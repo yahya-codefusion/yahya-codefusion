@@ -63,6 +63,6 @@ I am passionate about building scalable infrastructure, automating deployments, 
 
 GitHub: https://github.com/yahya-codefusion
 
-https://www.linkedin.com/in/yahya-attar-84b6871a9/
+Linkedin: https://www.linkedin.com/in/yahya-attar-84b6871a9/
 
 ⭐ Always learning and improving in the DevOps ecosystem.
